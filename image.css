@@ -1,0 +1,20 @@
+#left{
+	background-color: yellow;
+	float: left;
+}
+#right{
+
+	background-color: aqua;
+	float: right;
+}
+#name{
+	text-align: center;
+	background-color: pink;
+	height: 120px;
+	padding-top: 30px;
+	color: white;
+}
+img{
+
+border-radius: 50%
+}
